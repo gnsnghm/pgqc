@@ -1,4 +1,4 @@
-# pgqc
+# pgqc(PostGresql Query Comparison tool)
 
 ## How to use
 
